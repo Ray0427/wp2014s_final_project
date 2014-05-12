@@ -92,4 +92,8 @@ article{
 	font-size: 24.5px;
 	color: #58F9C7;
 	line-height: 40px;
+	outline: none;
+}
+#JoinOrCreate a:hover{
+	text-decoration: none;
 }
