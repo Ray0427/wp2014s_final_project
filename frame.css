@@ -4,6 +4,7 @@
           box-sizing: border-box;
 }
 body{
+	z-index:-2;
 	margin:0px;
 	border:0px;
 	width:1024px;
@@ -22,8 +23,7 @@ body{
 	margin-right:auto;
 	border:0px;
 	background:#58F9C7;
-	z-index:-2;
-}
+	
 ul{
 	margin:0;
 	padding:0;
