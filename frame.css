@@ -4,7 +4,6 @@
           box-sizing: border-box;
 }
 body{
-	z-index:-2;
 	margin:0px;
 	border:0px;
 	width:1024px;
