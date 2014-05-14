@@ -79,7 +79,7 @@ article{
 	position: absolute;
 	padding-left: 50px;
 
-	z-index: -1;
+	z-index: 0;
 }
 #bottom-line{
 	height:20px;
