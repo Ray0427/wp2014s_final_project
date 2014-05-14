@@ -54,7 +54,8 @@ article{
 }
 #JoinOrCreate{
 	height: 455px;
-	color: #58F9C7;	
+	color: #58F9C7;
+	z-index:10;
 }
 
 #liJoin{
@@ -62,7 +63,7 @@ article{
 	padding-right:60px;
 	text-align: center;
 	float: left;
-	z-index: 2;
+	/*z-index: 2;*/
 }
 
 #liCreate{
@@ -70,7 +71,7 @@ article{
 	padding-right:60px;
 	text-align: center;
 	float: right;	
-	z-index: 2;
+	/*z-index: 2;*/
 }
 #pen{
 	padding-top: 12px;
@@ -93,5 +94,4 @@ article{
 	color: #58F9C7;
 	line-height: 40px;
 	padding:0px 5px;
-	z-index:3;
-}
+	
