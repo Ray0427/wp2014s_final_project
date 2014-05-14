@@ -22,6 +22,7 @@ body{
 	margin-right:auto;
 	border:0px;
 	background:#58F9C7;
+	z-index:-2;
 }
 ul{
 	margin:0;
