@@ -57,7 +57,6 @@ article{
 #JoinOrCreate{
 	height: 455px;
 	color: #58F9C7;
-	z-index:10;
 }
 
 #liJoin{
@@ -82,7 +81,6 @@ article{
 	position: absolute;
 	padding-left: 50px;
 
-	z-index: -1;
 }
 #bottom-line{
 	height:20px;
